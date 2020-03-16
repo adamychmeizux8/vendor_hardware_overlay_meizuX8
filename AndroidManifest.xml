@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" android:versionCode="1" android:versionName="1.0" package="me.phh.treble.overlay.meizu.x8" platformBuildVersionCode="28" platformBuildVersionName="9">
+	<uses-sdk android:minSdkVersion="28" android:targetSdkVersion="28" />
+	<overlay android:isStatic="true" android:priority="18" android:requiredSystemPropertyName="ro.x8.overlay" android:requiredSystemPropertyValue="1" android:targetPackage="android" />
+</manifest>
